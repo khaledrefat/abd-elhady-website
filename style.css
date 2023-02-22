@@ -2,11 +2,14 @@ body{
   width: 100%;
   padding: 0px;
   margin: 0px;
-  color: #0062ae;
   font-size: 14px;
   font-family: 'Lato', sans-serif;
   line-height: 1.80857;
   font-weight: normal;
+  background-image: url(pic/istockphoto-162439519-1024x1024.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* ------------------------------------------------------------------ */
 .preloader {
@@ -223,9 +226,8 @@ justify-content: center;
     box-shadow: 2px 2px #0062ae,  -1px -1px #0062ae ;
     }
     section{
-      padding-bottom: 30px;
-      padding-left:20px ;
-      padding-right: 20px;
+      padding: 30px;
+    
     }
 
 
